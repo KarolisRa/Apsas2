@@ -13,11 +13,9 @@ body {
 </style>
 </head>
 <body>
-<form>
-  <input type="email" placeholder="E-mail address">
-  <input type="text" placeholder="Password">
-  <button class="btn btn-positive btn-block">Login</button>
-</form>
-<a href="register.html">New member? Register here</a>
+<center><img src="img/example_logo.png" alt="Logo" style="width:250px;height:170px;"></center>
+<div class="button"> 
+<a class="btn btn-positive btn-block" href="login.php">Login</a>
+<a class="btn btn-positive btn-block" href="register.php">Register</a>
 </body>
 </html>

@@ -15,7 +15,7 @@ body {
 <body>
 <center><img src="img/example_logo.png" alt="Logo" style="width:250px;height:170px;"></center>
 <div class="button"> 
-<a class="btn btn-positive btn-block" href="login.php">Login</a>
+<a class="btn btn-positive btn-block" href="profile.php">Edit profile</a>
 <a class="btn btn-positive btn-block" href="register.php">Register</a>
 </body>
 </html>
